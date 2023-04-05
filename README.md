@@ -1,4 +1,4 @@
-# CatGPT
+# ChatCat
 
 An alternative to ChatGPT
 
